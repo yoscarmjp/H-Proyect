@@ -1,0 +1,6 @@
+{
+    "maintenance": {
+      "status": false,
+      "allowedip": "127.0.0.1"
+    }
+}

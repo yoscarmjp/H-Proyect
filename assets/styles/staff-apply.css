@@ -1,0 +1,44 @@
+.flex-staff-container {
+    display: flex;
+    flex-flow: row wrap;
+    margin-top: 90px;
+    justify-content: center;
+}
+
+.staff-img-home img{
+    border-radius: 8px;
+    
+}
+
+.boxes-flex{
+    display: flex;
+    flex-grow: row wrap;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.box-staff{
+    width: 450px;
+    height: 400px;
+    font-family: Arial;
+    background-color: #EAEAEA;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+    transition: transform 300ms ease;
+}
+
+.box-staff h1 {
+    font-size: 20px;
+    text-align: center;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.box-staff p {
+    font-size: 15px;
+    text-align: center;
+    margin-left: 15px;
+    margin-right: 15px;
+}
