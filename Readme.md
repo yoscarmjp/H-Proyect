@@ -42,7 +42,7 @@ Asegúrate de leer y seguir nuestras [reglas](reglas.html) para mantener un ambi
 
 1. Clona el repositorio:
     ```sh
-    git clone https://github.com/tu-usuario/hycraft-network.git
+    git clone https://github.com/yoscarmjp/H-Proyect.git
     ```
 
 2. Navega al directorio del proyecto:
