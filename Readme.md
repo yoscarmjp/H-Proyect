@@ -47,7 +47,7 @@ Asegúrate de leer y seguir nuestras [reglas](reglas.html) para mantener un ambi
 
 2. Navega al directorio del proyecto:
     ```sh
-    cd hycraft-network
+    cd H-Proyect
     ```
 
 3. Abre `index.html` en tu navegador favorito.
