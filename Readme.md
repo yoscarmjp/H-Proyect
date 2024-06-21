@@ -26,51 +26,9 @@ HyCraft Network es un servidor de Minecraft en español, fundado en 2021. Desde 
 
 ---
 
-## 🔥 Novedades
-
-### 🗣️ Equipo de Traducciones
-Después de una reestructuración completa, ¡las postulaciones para el equipo de traducciones están abiertas nuevamente!
-
-![TranslateIMG](assets/img/boximg/traductor.png)
-
-[¡Aplicar ahora!](#)
-
-### 🛠️ Equipo de Soporte
-Después de una reestructuración completa, ¡las postulaciones para el equipo de soporte están abiertas nuevamente!
-
-![SupportIMG](assets/img/boximg/soporte.png)
-
-[¡Aplicar ahora!](#)
-
-### 🏗️ Equipo de Construcción
-Después de una reestructuración completa, ¡las postulaciones para el equipo de construcción están abiertas nuevamente!
-
-![BuilderIMG](assets/img/boximg/builder.png)
-
-[¡Aplicar ahora!](#)
-
----
-
 ## 📋 Reglas
 
 Asegúrate de leer y seguir nuestras [reglas](reglas.html) para mantener un ambiente de juego justo y divertido para todos. ✅
-
----
-
-## 📢 Conéctate con Nosotros
-
-¡Síguenos en nuestras redes sociales para no perderte ninguna novedad!
-
-[![Discord](assets/img/iconsimg/discord.svg)](https://discord.gg/hycraft)
-[![Instagram](#)](#)
-[![YouTube](#)](#)
-
----
-
-## ⚖️ Políticas y Términos
-
-- [Política de Privacidad](PrivacyPolicy.html)
-- [Términos y Condiciones](TermsAndConditions.html)
 
 ---
 
